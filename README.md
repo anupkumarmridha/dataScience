@@ -1,1 +1,1 @@
-Learning data Science
+Learning and exploring data Science
